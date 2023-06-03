@@ -1,7 +1,7 @@
 '''
 Author: Howv.John.Young
 Date: 2023-06-02 13:04:25
-LastEditTime: 2023-06-03 12:46:09
+LastEditTime: 2023-06-03 13:41:53
 LastEditors: Howv.John.Young
 Description: "
 FilePath: \pythontest\config.py
@@ -23,10 +23,10 @@ basic_variable = [
 ]
 #####################################################################
 #程序版本
-VERSION = "0.1.0"
+VERSION = "1.0.0"
 
 #目标网站url
-DOMAIN_URL = "http://www.qiman59.com"
+DOMAIN_URL = ""
 
 #启用downloader线程数
 DOWNLOADER_THREADS_NUM = 3
